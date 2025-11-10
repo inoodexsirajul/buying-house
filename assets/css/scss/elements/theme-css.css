@@ -6726,6 +6726,7 @@ header .flaticon-list {
   background-position: center !important;
   background-size: cover !important;
 }
+ 
 .slider.style_one .slide-item-content .auto-container {
   position: relative;
   z-index: 10;
@@ -8107,6 +8108,16 @@ header .flaticon-list {
   background-repeat: no-repeat !important;
   background-position: center !important;
   background-size: cover !important;
+}
+.style_page_thirteen .slide-item-content .image-layer:after {
+  content:"";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #000;
+  opacity: 0.4;
 }
 .style_page_thirteen .slide-item-content .auto-container {
   position: relative;

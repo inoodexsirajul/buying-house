@@ -5944,7 +5944,7 @@ body.single-header {
 
 .header_v13 .logo img, .header_v14 .logo img, .header_v17 .logo img {
   display: block;
-  width: 170px;
+  width: 100%;
   height: auto;
   margin-bottom: 0px;
 }
@@ -26387,7 +26387,7 @@ form .wpcf7-response-output {
 }
 
 .footer_logo img {
-  width: 150px;
+  width: 250px;
 }
 
 /*--------=========================shop css==============================----------------*/

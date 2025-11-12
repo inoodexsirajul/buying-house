@@ -26595,7 +26595,7 @@ select {
   border-radius: 50px;
   text-align: center;
   line-height: 50px;
-  background: #fff;
+  background: #222;
   box-shadow: var(--box-shadow-two);
   position: relative;
   transition: 0.5s ease-in-out;
@@ -26678,7 +26678,7 @@ select {
   color: #fff;
 }
 .product_box.type_one {
-  padding: 25px;
+  padding: 0;
   border: 1px solid var(--border-color-dark);
   border-radius: 5px;
   background: #fff;
@@ -26718,13 +26718,14 @@ select {
   overflow: hidden;
   margin: auto;
   border-radius: 5px;
-  margin-bottom: 30px;
+  margin-bottom: 15px;
 }
 .product_box.type_one .inner_box .image_box img {
   width: 100%;
-  height: auto;
+  height: 300px;
   margin: auto;
   border: 0px !important;
+  object-fit: contain;
 }
 .product_box.type_one .product_attributes {
   position: relative;

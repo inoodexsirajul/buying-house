@@ -15173,7 +15173,7 @@ header .flaticon-list {
   font-size: 22px;
   line-height: 40px;
   font-weight: 700;
-  color: var(--primary-color-one);
+  color: var(--primary-color-two);
   padding: 0px 0px 10px 0px;
   text-decoration: underline;
   font-family: var(--creote-family-one);
@@ -20606,7 +20606,7 @@ header .flaticon-list {
   width: 40px;
   height: 40px;
   border-radius: 50px;
-  background: var(--primary-color-one);
+  background: var(--primary-color-two);
   margin: auto;
   text-align: center;
   line-height: 40px;
@@ -25014,7 +25014,7 @@ form .wpcf7-response-output {
   position: relative;
   font-size: 16px;
   color: var(--color-white);
-  background: var(--primary-color-one);
+  background: var(--primary-color-two);
   display: inline-block;
   min-width: 180px;
   line-height: 50px;

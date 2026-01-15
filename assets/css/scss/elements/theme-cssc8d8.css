@@ -10044,17 +10044,17 @@ header .flaticon-list {
   -o-transition: all 1s ease;
   -ms-transition: all 1s ease;
 }
-.team_box.style_one .team_box_outer:hover .about_member .authour_details span {
+/* .team_box.style_one .team_box_outer:hover .about_member .authour_details span {
   transform: translateX(-140%);
-}
-.team_box.style_one .team_box_outer:hover .about_member .authour_details h6 {
+} */
+/* .team_box.style_one .team_box_outer:hover .about_member .authour_details h6 {
   transform: translateX(-140%);
-}
-.team_box.style_one .team_box_outer:hover .about_member .authour_details .button_view {
+} */
+/* .team_box.style_one .team_box_outer:hover .about_member .authour_details .button_view {
   left: 25px;
   opacity: 1;
   transform: translateX(0%);
-}
+} */
 .team_box.style_one .team_box_outer:hover .member_image img {
   transform: scale(1.05);
   -moz-transform: scale(1.05);
